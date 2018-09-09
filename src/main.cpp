@@ -24,8 +24,9 @@ void loop() {
   } 
   else
   {
-    test = t.src() + "/" + h.src()
-    Serial.print(test);
+    Serial.print(t);
+    Serial.print("/");
+    Serial.print(h);
     delay(500);
   }
 }
