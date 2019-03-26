@@ -2,7 +2,7 @@
 
 ## To run
 
-### Upload the main.cpp to your arduino and connect your DHT11 sensor on A1
+### Upload the main.cpp to your arduino and connect your DHT11 sensor on A1 pin
 
 ### Now run the api with the arduino connected on usb
 
