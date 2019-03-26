@@ -1,4 +1,5 @@
 # DHT11-Web
+An software for arduino to read temp&humidity and send via serial for the node.js api thats fill the front-end made with vue
 
 ## To run
 
